@@ -1,0 +1,5 @@
+puts "the number is 5912"
+puts "the thousands place is #{5912/1000}"
+puts "the hundreds place is #{5912%1000/100}"
+puts "the tens place is #{5912%1000%100/10}"
+puts "the ones place is #{5912%1000%100%10}"
