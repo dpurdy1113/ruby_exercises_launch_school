@@ -1,0 +1,5 @@
+dates = [1985, 1988, 2009, 1993]
+puts dates[0]
+puts dates[1]
+puts dates[2]
+puts dates[3]
