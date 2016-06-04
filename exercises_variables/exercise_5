@@ -1,0 +1,3 @@
+The first program returns a value of 3, because the variable is defined before the  times method is called so the scope allows it to be accessed during and after the .times method.
+
+The second program returns an error "undefined local variable or method `x' for main:Object" because the variable x is defined in the .times method and so is not available outside of this method.

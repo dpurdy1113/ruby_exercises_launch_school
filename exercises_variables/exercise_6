@@ -1,0 +1,2 @@
+The error "undefined local variable or method `shoes' for main:Object
+  from (irb):3" means that either a variable has been defined outside of the scope it is called in (for example in a method when the variable is called outside of the method) or the variable has not been defined at all
