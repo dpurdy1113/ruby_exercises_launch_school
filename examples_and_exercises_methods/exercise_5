@@ -1,0 +1,21 @@
+#modifying the code for exercise 5 takes it from 
+
+#def scream(words)
+ # words = words + "!!!!"
+ #return
+ # puts words
+#end
+
+#scream("Yippeee")
+
+
+#to
+
+def scream(words)
+  words = words + "!!!!"
+  puts words
+end
+
+scream("Yippeee")
+
+# and returns the phrase "Yippeee!!!!"
